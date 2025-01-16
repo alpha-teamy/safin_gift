@@ -75,7 +75,7 @@ h1 {
 }
 .telegram-btn
 {
-    background-color: #0088cc;
+    background-color: #0b6a9a;
 }
 .whatsapp-btn
 {
@@ -126,6 +126,24 @@ h1 {
     background-size: cover;
     object-fit: cover;
     box-shadow: 0 15px 100vh rgba(0, 0, 0, 0.2);
+}
+.location-btn {
+    background-color: #09997f; /* Green for location */
+    color: white;
+    border-radius: 5px;
+    padding: 10px 15px;
+    text-decoration: none;
+    font-size: 16px;
+    height: 50px;
+    border-radius: 50px;
+}
+.location-btn:hover {
+    background-color:#1c98e6;
+}
+footer > a
+{
+    color: white;
+    text-decoration: none;
 }
 .footer-1
 {
